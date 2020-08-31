@@ -1,6 +1,6 @@
 {
   "name": "channel-grouping",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "author": "Behnam Fakhimi",
   "license": "MIT",
@@ -27,6 +27,6 @@
     "standard": "^14.3.3"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
