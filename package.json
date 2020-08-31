@@ -1,9 +1,10 @@
 {
   "name": "channel-grouping",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "author": "Behnam Fakhimi",
   "license": "MIT",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git@github.com:behnaam/channel-grouping.git"
@@ -27,6 +28,7 @@
     "standard": "^14.3.3"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
