@@ -10,7 +10,12 @@
     "url": "git@github.com:behnaam/channel-grouping.git"
   },
   "files": [
-    "dist"
+    "dist",
+    "lib",
+    ".babelrc",
+    "README.md",
+    "yarn.lock",
+    ".gitignore"
   ],
   "scripts": {
     "lint": "cd ./lib && standard | snazzy",
