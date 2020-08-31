@@ -1,6 +1,6 @@
 {
   "name": "channel-grouping",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "author": "Behnam Fakhimi",
   "license": "MIT",
