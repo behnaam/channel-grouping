@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:behnaam/content-grouping.git"
+    "url": "git@github.com:behnaam/channel-grouping.git"
   },
   "scripts": {
     "lint": "cd ./lib && standard | snazzy",
