@@ -1,6 +1,6 @@
 {
   "name": "channel-grouping",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "dist/index.js",
   "author": "Behnam Fakhimi",
   "license": "MIT",
@@ -9,7 +9,9 @@
     "type": "git",
     "url": "git@github.com:behnaam/channel-grouping.git"
   },
-  "files": [ "dist" ],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "lint": "cd ./lib && standard | snazzy",
     "lint:fix": "cd ./lib && standard --fix | snazzy",
