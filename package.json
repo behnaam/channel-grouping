@@ -28,13 +28,13 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@babel/cli": "^7.8.4",
-    "@babel/core": "^7.9.0",
-    "@babel/plugin-proposal-optional-chaining": "^7.11.0",
-    "@babel/preset-env": "^7.9.5",
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/plugin-proposal-optional-chaining": "^7.14.5",
+    "@babel/preset-env": "^7.15.6",
     "babel-minify": "^0.5.1",
-    "snazzy": "^8.0.0",
-    "standard": "^14.3.3"
+    "snazzy": "^9.0.0",
+    "standard": "^16.0.3"
   },
   "publishConfig": {
     "access": "public",
